@@ -18,7 +18,7 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: JayR's Homepage # the main title
+title: JayR # the main title
 
 tagline: Ingenieur, Hobby-Fotograf, Familienvater # it will display as the sub-title
 
@@ -41,11 +41,10 @@ social:
   email: webmaster@jrossbach.de # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/jensrossbach # change to your github homepage
-    - https://twitter.com/jens_rossbach # change to your twitter homepage
-    # Uncomment below to add more social links
-    - https://www.facebook.com/jens.rossbach
     - https://www.linkedin.com/in/jensrossbach
+    - https://github.com/jensrossbach
+    - https://twitter.com/jens_rossbach
+    - https://www.facebook.com/jens.rossbach
 
 google_site_verification: # fill in to your verification string
 
