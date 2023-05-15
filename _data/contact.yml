@@ -4,6 +4,10 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- type: telegram
+  icon: "fab fa-telegram"
+  url: https://t.me/jens_rossbach
+
 - type: github
   icon: "fab fa-github"
 

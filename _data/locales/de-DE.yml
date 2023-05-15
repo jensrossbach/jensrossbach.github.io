@@ -12,7 +12,7 @@ tabs:
   # format: <filename_without_extension>: <value>
   home: Startseite
   categories: Kategorien
-  tags: Tags
+  tags: Schlagwörter
   archives: Archiv
   about: Über
 
@@ -24,8 +24,8 @@ search:
 
 panel:
   lastmod: Kürzlich aktualisiert
-  trending_tags: Beliebte Tags
-  toc: Inhalt
+  trending_tags: Beliebte Schlagwörter
+  toc: Inhaltsverzeichnis
 
 copyright:
   # Shown at the bottom of the post
@@ -46,7 +46,7 @@ not_found:
 
 notification:
   update_found: Eine neue Version ist verfügbar.
-  update: Neue Version
+  update: Aktualisieren
 
 # ----- Posts related labels -----
 
@@ -63,7 +63,7 @@ post:
   share: Teilen
   button:
     next: Nächster Eintrag
-    previous: Eintrag vorher
+    previous: Vorheriger Eintrag
     copy_code:
       succeed: Kopiert!
     share_link:
