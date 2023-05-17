@@ -11,7 +11,7 @@ Hier findest du Information zu einer Auswahl an privaten Projekten (sowohl Softw
 
 ## Node-RED
 
-Die folgenden Projekte sind in der Zeit entstanden, als ich noch hauptsächlich auf Node-RED für meine Heimautomatisierung gesetzt hatte. Mittlerweile bin ich ja (fast) komplett auf Home Assistant umgestiegen (ja ich weiß, man kann Home Assistant auch sehr gut mit Node-RED kombinieren). Im Gegensatz zu anderen Home Assistant Benutzern, die Node-RED für Automatisierungen verwenden, habe ich alle meine Automatisierungen in Home Assistant direkt laufen. Node-RED läuft zwar noch als Home Assistant Add-On mit, jedoch habe ich momentan keine Flows im Einsatz. Nichtsdestotrotz pflege ich meine Node-RED Projekte weiter für all diejenigen, die meine Nodes verwenden und auf Unterstützung angewiesen sind. Ich habe zwei Node-Pakete entwickelt, die ich im Folgenden kurz vorstelle. Weitere Details findet ihr in den jeweiligen GitHub Repositories, insbesondere den Wikis.
+Die folgenden Projekte sind in der Zeit entstanden, als ich noch hauptsächlich auf Node-RED für meine Heimautomatisierung gesetzt hatte. Mittlerweile bin ich ja komplett auf Home Assistant umgestiegen (ja ich weiß, man kann Home Assistant auch sehr gut mit Node-RED kombinieren). Im Gegensatz zu anderen Home Assistant Benutzern, die Node-RED für Automatisierungen verwenden, habe ich aber alle meine Automatisierungen in Home Assistant direkt laufen. Nichtsdestotrotz pflege ich meine Node-RED Projekte weiter für all diejenigen, die meine Nodes verwenden und auf Unterstützung angewiesen sind. Ich habe zwei Node-Pakete entwickelt, die ich im Folgenden kurz vorstelle. Weitere Details findet ihr in den jeweiligen GitHub Repositories, insbesondere den Wikis.
 
 #### Chronos
 
@@ -25,11 +25,11 @@ Unter folgendem Link findest du die Paketbeschreibung in der Node-RED Library:
 
 * [node-red-contrib-chronos (Node-RED)](https://flows.nodered.org/node/node-red-contrib-chronos)
 
-Wenn du an dem NPM-Paket interessiert bist, solltest du folgenden Link probieren
+Das NPM-Paket findest du unter folgendem Link in der NPM Registry:
 
 * [node-red-contrib-chronos (NPM)](https://www.npmjs.com/package/node-red-contrib-chronos)
 
-Und zu guter Letzt das Quellcode-Repository auf GitHub:
+Den Quellcode findest du im Repository auf GitHub:
 
 * [node-red-contrib-chronos (GitHub)](https://github.com/jensrossbach/node-red-contrib-chronos)
 
@@ -43,10 +43,22 @@ Unter folgendem Link findest du die Paketbeschreibung in der Node-RED Library:
 
 * [@jens_rossbach/node-red-sony-audio (Node-RED)](https://flows.nodered.org/node/@jens_rossbach/node-red-sony-audio)
 
-Wenn du an dem NPM-Paket interessiert bist, solltest du folgenden Link probieren
+Das NPM-Paket findest du unter folgendem Link in der NPM Registry:
 
 * [@jens_rossbach/node-red-sony-audio (NPM)](https://www.npmjs.com/package/@jens_rossbach/node-red-sony-audio)
 
-Und zu guter Letzt das Quellcode-Repository auf GitHub:
+Den Quellcode findest du im Repository auf GitHub:
 
 * [@jens_rossbach/node-red-sony-audio (GitHub)](https://github.com/jensrossbach/node-red-sony-audio)
+
+# Sonstiges
+
+## ClockIn
+
+ClockIn (zu deutsch: "stechen"/"einstechen"/"stempeln") ist ein kleines Windows-Programm zum Erfassen und Überwachen der eigenen Arbeitszeit. Es merkt sich die Zeit, zu der du deine Arbeit begonnen hast, benachrichtigt dich, wenn du deine reguläre Arbeitszeit erreicht hast und warnt dich, bevor du deine maximale Arbeitszeit überschreitest. Das Tool ist hauptsächlich für deutsche Arbeitnehmer interessant, die in Büros arbeiten und sich an das deutsche Arbeitszeitgesetz halten müssen.
+
+![ClockIn](/assets/img/projects/clockin.png)
+
+Hier findest du den Quellcode des Programms auf GitHub:
+
+* [ClockIn (GitHub)](https://github.com/jensrossbach/clock-in)
