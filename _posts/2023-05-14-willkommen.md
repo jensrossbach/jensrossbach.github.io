@@ -2,7 +2,7 @@
 title: "Willkommen auf meiner neuen Homepage"
 date: 2023-05-14 09:44:00 +0002
 categories: [Neuigkeiten, Website]
-tags: [begruessung, homepage]
+tags: [begrüßung, homepage]
 pin: true
 ---
 
