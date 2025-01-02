@@ -4,9 +4,9 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: telegram
-  icon: "fab fa-telegram"
-  url: https://t.me/jens_rossbach
+- type: mastodon
+  icon: 'fab fa-mastodon'
+  url:  'https://hessen.social/@jens_rossbach'
 
 - type: github
   icon: "fab fa-github"
@@ -20,9 +20,9 @@
 #  icon: "fas fa-rss"
 #  noblank: true
 #
-#- type: mastodon
-#  icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#  url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
+#- type: telegram
+#  icon: "fab fa-telegram"
+#  url: https://t.me/jens_rossbach
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
