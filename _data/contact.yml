@@ -1,0 +1,33 @@
+#  The contact options.
+
+- type: mastodon
+  icon: 'fab fa-mastodon'
+  url:  'https://hessen.social/@jens_rossbach'
+
+- type: github
+  icon: "fab fa-github"
+
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  https://www.linkedin.com/in/jensrossbach
+
+- type: xing
+  icon: "fab fa-xing"
+  url: "https://www.xing.com/profile/JensUwe_Rossbach"
+
+# Uncomment and complete the url below to enable more contact options
+#- type: email
+#  icon: "fas fa-envelope"
+#  noblank: true # open link in current tab
+#
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
+#
+#- type: telegram
+#  icon: "fab fa-telegram"
+#  url: https://t.me/jens_rossbach
+#
+# - type: stack-overflow
+#   icon: 'fab fa-stack-overflow'
+#   url:  ''                  # Fill with your stackoverflow homepage
