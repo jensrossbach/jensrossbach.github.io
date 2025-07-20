@@ -4,8 +4,16 @@ icon: fas fa-envelope
 order: 2
 ---
 
-Wenn du mich kontaktieren möchtest, kannst du das über den [SimpleX-Messenger](https://simplex.chat/de) tun. Scanne einfach folgenden QR-Code und folge den Anweisungen in der SimpleX-App:
+Wenn du mich kontaktieren möchtest, kannst du das über den [SimpleX-Messenger](https://simplex.chat/de) tun. Scanne einfach folgenden QR-Code (oder klicke auf diesen [→ Link](https://smp8.simplex.im/a#FAXxG74EzdYwdcaMXRqV75TGrZWgeD2dEM6iGJOsGPw)) und folge den Anweisungen in der SimpleX-App:
 
-![Jens-Uwe Roßbach via SimpleX](/assets/img/qr_simplex.png)
+![Jens-Uwe Roßbach via SimpleX](/assets/img/qr_simplex.png){: width="300px" }
 
-Alternativ zum Scannen des QR-Codes kannst du auch auf diesen [→ Link](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2Fl4nHZRdUCx-dd-3xbZUiN2n9gRoQCg_L%23%2F%3Fv%3D1-4%26dh%3DMCowBQYDK2VuAyEADAmjwkxLxFjmADUfeF6bEYQK7YP23vJFOB2Sgxed0zI%253D%26q%3Dc%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion) klicken, um dich zu verbinden.
+Wenn du möchtest, kannst du mich auch über [Nostr](https://nostr.com) kontaktieren und ggf. meinem Feed folgen. Falls du Nostr schon verwendest, kannst du folgenden QR-Code scannen (oder auf diesen [→ Link](nostr:npub177txmk4vuawqf87p9cezss4q6960h2wsnsk40c7npszsaa3zfe6s03hftw) klicken), der dich dann zu meinem Nostr-Profil führt:
+
+![Jens-Uwe Roßbach auf Nostr](/assets/img/qr_nostr.png){: width="300px" }
+
+Solltest du Nostr noch nicht verwenden, kannst du dir mein [→ Profil auf Njump](https://njump.me/npub177txmk4vuawqf87p9cezss4q6960h2wsnsk40c7npszsaa3zfe6s03hftw) anschauen.
+
+Falls du mir direkt über meinen öffentlichen Schlüssel folgen möchtest, kannst du diesen auch hier kopieren:
+
+    npub177txmk4vuawqf87p9cezss4q6960h2wsnsk40c7npszsaa3zfe6s03hftw
