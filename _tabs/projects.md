@@ -17,17 +17,17 @@ Wenn man sich mit Home Assistant beschäftigt, kommt man eigentlich auch nicht u
 
 Luxtronik V1 ist eine ESPHome-Komponente zur Erstellung einer ESP-Firmware, die die Integration eines Luxtronik V1 Heizungssteuergeräts in das Smart Home ermöglicht. Die Komponente ist primär für die Einbindung in Home Assistant gedacht, aber über MQTT kann auch eine Integration mit einer alternativen Hausautomatisierungs-Software realisiert werden. Die Luxtronik Heizungsregelung in der Version 1 (V1) verfügt nicht über eine Netzwerkschnittstelle, sondern stellt lediglich eine RS-232-Schnittstelle zur Verfügung. Daher ist ein Mikrocontroller als Gateway zwischen Heizungssteuergerät und Netzwerk notwendig.
 
-Den Quellcode und die Dokumentation findest du im Repository auf GitHub:
+Hier ist der Link zum Projekt auf GitHub:
 
-⇨ [jensrossbach/esphome-luxtronik-v1](https://github.com/jensrossbach/esphome-luxtronik-v1)
+⇨ [ESPHome Luxtronik V1](https://github.com/jensrossbach/esphome-luxtronik-v1)
 
 ### Ferraris Meter
 
 Ferraris Meter ist eine ESPHome-Komponente zur Erstellung einer ESP-Firmware, die mithilfe eines ESP-Mikrocontrollers und eines Infrarotsensors die Geschwindigkeit und die Umdrehungen der Drehscheibe eines analogen Ferraris-Stromzählers ermitteln und daraus den momentanen Stromverbrauch und den Zählerstand berechnen kann. Diese Werte können dann zur weiteren Verarbeitung an eine Hausautomatisierungs-Software wie beispielsweise Home Assistant geschickt werden.
 
-Den Quellcode und die Dokumentation findest du im Repository auf GitHub:
+Hier ist der Link zum Projekt auf GitHub:
 
-⇨ [jensrossbach/esphome-ferraris-meter](https://github.com/jensrossbach/esphome-ferraris-meter)
+⇨ [ESPHome Ferraris Meter](https://jensrossbach.github.io/esphome-ferraris-meter)
 
 ## Node-RED
 
